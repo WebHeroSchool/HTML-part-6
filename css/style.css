@@ -1,11 +1,9 @@
-*{
-  font-family: 'Lexend Peta', sans-serif;
-}
 
-.header__title{
-  color: blue;
+.body{
+  font-family: 'PT Sans', sans-serif;
 }
 
 h1{
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Lexend Peta', sans-serif;
+  color: blue;
 }
